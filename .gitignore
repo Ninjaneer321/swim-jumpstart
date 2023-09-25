@@ -35,4 +35,4 @@ target/
 
 data/
 
-src/main/resources/application.conf
+application.conf
